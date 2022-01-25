@@ -19,3 +19,6 @@ h1{
 h3{
     color: #D06224;
 }
+a:hover{
+    color: red;
+}
