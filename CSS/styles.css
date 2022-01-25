@@ -1,20 +1,19 @@
 body{
-    background-color: #ccf5f0;
+    background-color: rgb(162, 238, 238);
 }
 hr{
     background-color: transparent;
     border-style: none;
     border-top-style: dotted;
-    border-color: rgb(162, 98, 221);
+    border-color: violet;
     border-width: 5px;
     width: 10%;
-
 }
 img{
     height: 150px;
 }
 h1{
-    color: #23049D;
+    color: rgb(0, 119, 255);
 }
 h3{
     color: #D06224;
