@@ -9,6 +9,12 @@ hr{
     border-width: 5px;
     width: 10%;
 }
+input{
+    background-color: bisque;
+}
+textarea{
+    background-color: azure;
+}
 img{
     height: 150px;
 }
@@ -20,4 +26,11 @@ h3{
 }
 a:hover{
     color: red;
+}
+
+#submit{
+    background-color: gold;
+}
+#reset{
+    background-color: rgb(58, 226, 52);
 }
