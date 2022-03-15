@@ -38,6 +38,7 @@ a:hover{
     background-color: #e4f9f5;
     padding-top: 100px;
     position: relative;
+    width: 100%;
 }
 .pro{
     text-decoration: underline;
